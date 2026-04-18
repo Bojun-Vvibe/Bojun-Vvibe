@@ -14,6 +14,8 @@ Right now I’m focused on building and refining tools that make agent-driven de
 
 ### AI-native workflow tools
 
+These projects are my current public surface area for exploring agentic workflows, terminal UX, and better defaults for AI-assisted building.
+
 - **[claude-starter](https://github.com/Bojun-Vvibe/claude-starter)** — a terminal homepage for Claude Code sessions
 - **[codex-starter](https://github.com/Bojun-Vvibe/codex-starter)** — a terminal homepage for Codex sessions
 - **[getia.md](https://github.com/Bojun-Vvibe/getia.md)** — structured information architecture files that help AI agents scaffold products with better defaults
