@@ -25,6 +25,8 @@ Right now I’m focused on building and refining tools that make agent-driven de
 
 ## Current direction
 
+I’m actively moving from traditional product engineering toward an **AI-native developer** workflow.
+
 I care about the gap between **AI demos** and **real developer workflows**.
 
 That usually means working on things like:
