@@ -17,6 +17,17 @@
 
 ---
 
+## Contributed to
+
+Small fixes upstream — typos, README, build configs.
+
+- 🦔 **[nim-lang/Nim](https://github.com/nim-lang/Nim/pull/25758)** ⭐ 17.9k — fixed an invalid macOS minimum version in the README.
+- 🐍 **[sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy/pull/13245)** ⭐ 11.8k — fixed a typo in `DefaultDialect.construct_arguments`.
+- 🧱 **[keystonejs/keystone](https://github.com/keystonejs/keystone/pull/9815)** ⭐ 9.9k — fixed typos in code comments.
+- 🗄️ **[sqlalchemy/alembic](https://github.com/sqlalchemy/alembic/pull/1808)** ⭐ 4.1k — fixed typos in docstrings.
+
+---
+
 ## For your AI sessions
 
 The cockpit, the bridge, and the scaffolding around an agent — so the next session starts faster than the last one ended.
@@ -61,6 +72,5 @@ Four reflexes from [On AI Native Work](https://aka.ms/on-ai-native-work):
 ---
 
 > *Generation, to agent. Decisions, permissions, taste, to you. Attention, to what's still precious.*
-
 
 
