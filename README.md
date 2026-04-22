@@ -62,3 +62,4 @@ Four reflexes from [On AI Native Work](https://aka.ms/on-ai-native-work):
 
 > *Generation, to agent. Decisions, permissions, taste, to you. Attention, to what's still precious.*
 
+
