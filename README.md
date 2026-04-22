@@ -1,9 +1,11 @@
 # Hi, I'm Bojun Chai 👋
 
-📍 **Suzhou** · 💼 **Senior Software Engineer @ Microsoft** · 📜 [**Read the manifesto →**](https://aka.ms/how-ai-native-works)
+📍 **Suzhou** · 💼 **Senior Software Engineer @ Microsoft** · 📜 [**On AI Native Work →**](https://aka.ms/on-ai-native-work)
 
-> **No `?`/`@` in AI-native generation.**
+> **No `?` / `@` in AI-native generation.**
 > **No to-do. To-do is doing. Doing is done.**
+> **No teamwork is the best teamwork.**
+> **Unknowns are invitations.**
 
 I build small, sharp tools for the AI-native developer — terminal UX, agentic workflows, and the connective tissue between a human's taste and an agent's throughput. Most of what I ship is a single file, MIT-licensed, and meant to be read in one sitting.
 
@@ -13,7 +15,7 @@ I build small, sharp tools for the AI-native developer — terminal UX, agentic 
 
 - 🧠 **Working on Copilot @ Microsoft** — shipping AI-powered mobile experiences.
 - 🛠️ **Building agentic dev tools** — terminal homepages, scaffolding skills, native macOS utilities. Local-first, no upsell.
-- 📜 **Writing [On AI-Native Work](https://aka.ms/how-ai-native-works)** — a short manifesto on what changes when the agent is the first responder.
+- 📜 **Writing [On AI Native Work](https://aka.ms/on-ai-native-work)** — how to work when generation is cheap and judgment is expensive.
 
 ---
 
@@ -67,25 +69,27 @@ Small products, strong taste, zero upsell. Built with SwiftUI.
 
 ## Writing
 
-- 📜 **[on-ai-native-work.github.io](https://github.com/on-ai-native-work/on-ai-native-work.github.io)** — The manifesto. One HTML file, no build. → [aka.ms/how-ai-native-works](https://aka.ms/how-ai-native-works)
+- 📜 **[on-ai-native-work.github.io](https://github.com/on-ai-native-work/on-ai-native-work.github.io)** — One HTML file, no build. → [aka.ms/on-ai-native-work](https://aka.ms/on-ai-native-work)
 
 ---
 
 ## How I work
 
-- **Agent first, human second.** Before I `@` you, I've already asked the agent. Twice.
-- **No to-do list.** If I can phrase it, I can dispatch it. The list is the prompt.
-- **Taste is the moat.** Generation is cheap. Knowing what's worth shipping is not.
-- **One file when one file will do.** Builds, frameworks, and dependencies are debt.
+Four reflexes from [On AI Native Work](https://aka.ms/on-ai-native-work):
+
+- **No `?` / `@`.** `?` is being too lazy to open an agent. `@` is being too lazy to finish reading. The agent is the cheap, infinite first read. The questions I bring you are the ones an agent can't answer — decisions, permissions, taste.
+- **No to-do. To-do is doing. Doing is done.** The moment I can phrase it, I can dispatch it. Capturing and starting are the same act now. My job is review and judgment, not tracking.
+- **No teamwork is the best teamwork.** Status meetings, FYI threads, hand-offs — overhead from a previous era. What survives: decisions made together, taste collided together, trust built together.
+- **Unknowns are invitations.** A place AI can help me reach, where others haven't reached yet, is the opening. Walk in. Send back the map.
 
 ---
 
 ## Connect
 
 - 🌐 [booojchai.github.io](https://booojchai.github.io/)
-- 📜 [aka.ms/how-ai-native-works](https://aka.ms/how-ai-native-works)
+- 📜 [aka.ms/on-ai-native-work](https://aka.ms/on-ai-native-work)
 - 💼 Microsoft, Suzhou
 
 ---
 
-> *Don't ask. Don't `@`. Go with your agent. It's faster.*
+> *Generation, to agent. Decisions, permissions, taste, to you. Attention, to what's still precious.*
