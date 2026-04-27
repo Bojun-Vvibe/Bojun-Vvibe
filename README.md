@@ -1,11 +1,9 @@
 # Hi, I'm Bojun Chai 👋
 
-📍 **Suzhou** · 💼 **Senior Software Engineer @ Microsoft** · 📜 [**On AI Native Work →**](https://aka.ms/on-ai-native-work)
+📍 **Suzhou** · 💼 **Senior Software Engineer @ Microsoft**
 
-> **No `?` / `@` in AI-native generation.**
-> **No to-do. To-do is doing. Doing is done.**
-> **No teamwork is the best teamwork.**
-> **Unknowns are invitations.**
+> *Generation, to agent. Decisions, permissions, taste, to you. Attention, to what's still precious.*
+> 📜 [**On AI Native Work →**](https://aka.ms/on-ai-native-work)
 
 ---
 
@@ -68,9 +66,4 @@ Six reflexes from [On AI Native Work](https://aka.ms/on-ai-native-work):
 - 🌐 [booojchai.github.io](https://booojchai.github.io/)
 - 📜 [aka.ms/on-ai-native-work](https://aka.ms/on-ai-native-work)
 - 💼 Microsoft, Suzhou
-
----
-
-> *Generation, to agent. Decisions, permissions, taste, to you. Attention, to what's still precious.*
-
 
