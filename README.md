@@ -43,12 +43,14 @@ Small products, strong taste, zero upsell. Built with SwiftUI.
 
 ## How I work
 
-Four reflexes from [On AI Native Work](https://aka.ms/on-ai-native-work):
+Six reflexes from [On AI Native Work](https://aka.ms/on-ai-native-work):
 
 - **No `?` / `@`.** `?` is being too lazy to open an agent. `@` is being too lazy to finish reading. The agent is the cheap, infinite first read. The questions I bring you are the ones an agent can't answer — decisions, permissions, taste.
 - **No to-do. To-do is doing. Doing is done.** The moment I can phrase it, I can dispatch it. Capturing and starting are the same act now. My job is review and judgment, not tracking.
-- **No teamwork is the best teamwork.** Status meetings, FYI threads, hand-offs — overhead from a previous era. What survives: decisions made together, taste collided together, trust built together.
-- **Unknowns are invitations.** A place AI can help me reach, where others haven't reached yet, is the opening. Walk in. Send back the map.
+- **No teamwork is the best teamwork.** A person is no longer a person — it's them plus a fleet of agents. Old human-to-human interfaces (status meetings, FYI threads, hand-offs) become overhead. What survives: decisions made together, taste collided together, trust built together.
+- **Unknowns are invitations.** What you haven't seen is yours to explore. A place AI can help me reach, where others haven't reached yet, is the opening. Walk in. Send back the map.
+- **Lead with artifacts.** When anyone can build it, everyone can lead. Title gets you into the room; the artifact moves the room. Stop mobilizing people before you can show the thing — show the thing.
+- **Skin in, then choose.** Belief without skin in the game is borrowed. Belief after skin in the game is yours. Try it on real work first; then decide what you actually believe.
 
 ---
 
