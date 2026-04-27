@@ -17,15 +17,6 @@
 
 ---
 
-## Contributed to
-
-- 🦔 **[nim-lang/Nim](https://github.com/nim-lang/Nim/pull/25758)** ⭐ 17.9k — fixed an invalid macOS minimum version in the README.
-- 🐍 **[sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy/pull/13245)** ⭐ 11.8k — fixed a typo in `DefaultDialect.construct_arguments`.
-- 🧱 **[keystonejs/keystone](https://github.com/keystonejs/keystone/pull/9815)** ⭐ 9.9k — fixed typos in code comments.
-- 🗄️ **[sqlalchemy/alembic](https://github.com/sqlalchemy/alembic/pull/1808)** ⭐ 4.1k — fixed typos in docstrings.
-
----
-
 ## For your AI sessions
 
 The cockpit, the bridge, and the scaffolding around an agent — so the next session starts faster than the last one ended.
@@ -58,6 +49,15 @@ Four reflexes from [On AI Native Work](https://aka.ms/on-ai-native-work):
 - **No to-do. To-do is doing. Doing is done.** The moment I can phrase it, I can dispatch it. Capturing and starting are the same act now. My job is review and judgment, not tracking.
 - **No teamwork is the best teamwork.** Status meetings, FYI threads, hand-offs — overhead from a previous era. What survives: decisions made together, taste collided together, trust built together.
 - **Unknowns are invitations.** A place AI can help me reach, where others haven't reached yet, is the opening. Walk in. Send back the map.
+
+---
+
+## Contributed to
+
+- **[nim-lang/Nim](https://github.com/nim-lang/Nim)** ⭐ 17.9k
+- **[sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)** ⭐ 11.8k
+- **[keystonejs/keystone](https://github.com/keystonejs/keystone)** ⭐ 9.9k
+- **[sqlalchemy/alembic](https://github.com/sqlalchemy/alembic)** ⭐ 4.1k
 
 ---
 
