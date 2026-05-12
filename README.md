@@ -54,7 +54,10 @@ Six reflexes from [On AI Native Work](https://aka.ms/on-ai-native-work):
 
 ## Contributed to
 
-- **[nim-lang/Nim](https://github.com/nim-lang/Nim)** ⭐ 17.9k
+- **[composer/composer](https://github.com/composer/composer)** ⭐ 29.4k
+- **[nim-lang/Nim](https://github.com/nim-lang/Nim)** ⭐ 18.0k
+- **[aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)** ⭐ 16.4k
+- **[pypa/pipx](https://github.com/pypa/pipx)** ⭐ 12.8k
 - **[sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)** ⭐ 11.8k
 - **[keystonejs/keystone](https://github.com/keystonejs/keystone)** ⭐ 9.9k
 - **[sqlalchemy/alembic](https://github.com/sqlalchemy/alembic)** ⭐ 4.1k
