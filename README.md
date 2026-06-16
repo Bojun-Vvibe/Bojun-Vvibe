@@ -1,9 +1,28 @@
 # Hi, I'm Bojun Chai 👋
 
-📍 **Suzhou** · 💼 **Senior Software Engineer @ Microsoft**
+📍 **Suzhou** · 💼 **Senior Software Engineer & Tech Lead @ Microsoft** · 🤖 **AI Native Practitioner**
 
 > *Generation, to agent. Decisions, permissions, taste, to you. Attention, to what's still precious.*
-> 📜 [**On AI Native Work →**](https://aka.ms/on-ai-native-work)
+> 🌐 **[bojunchai.me →](https://bojunchai.me)** · 📜 [**On AI Native Work →**](https://aka.ms/on-ai-native-work)
+
+---
+
+## 👤 About me — [bojunchai.me](https://bojunchai.me)
+
+Senior Software Engineer & Tech Lead with **10+ years of mobile development and engineering** experience, delivering products and services with world-class quality. Currently at Microsoft, reshaping my capabilities in the AI Native wave — connecting **mobile quality, engineering productivity, and AI Native practice**, and leading cross-team collaboration to turn complex goals into high-quality outcomes.
+
+**`Android` · `Mobile` · `DevOps` · `CI/CD` · `AI Native` · `Automation` · `Quality` · `Performance` · `Leadership`**
+
+### 🏆 Impact highlights
+
+- 🟢 **Bing app** — Core member / Tech Lead for fundamentals: crash rate **≤ 0.05%**, sign-in success **≥ 99.9%**.
+- 🟢 **Copilot app** — Core member for fundamentals: crash-free session rate **≥ 99.99%**, UI automation core coverage **≥ 80%**.
+- 🟢 **Copilot DevOps** — Tech Lead for a 5-person team: **95%+ CI/CD stability**, **5× PR efficiency**, **zero release blockers**.
+- 🚀 **OPPO Hyper Boost** (0→1) — integrated **105+ apps**, avg. staged performance gain **30%+**; led Qualcomm VRS collaboration with NetEase Games.
+- ⌚ **Samsung Galaxy Watch** — first-party apps (Daily Briefing, Notification, Home Screen); 2019 **Best Engineer Award**.
+- 🥇 **Microsoft AI Impact Award**, 2026.
+
+→ Full experience, talks, publications & patents at **[bojunchai.me](https://bojunchai.me)**
 
 ---
 
@@ -19,6 +38,7 @@
 
 The cockpit, the bridge, and the scaffolding around an agent — so the next session starts faster than the last one ended.
 
+- 🏗️ **[harness-kit](https://github.com/Bojun-Vvibe/harness-kit)** — Stack-agnostic scaffolding for AI-coding-agent harnesses. One `harness init` drops a complete 5-subsystem harness (instructions, state, feedback, observability, governance) into any repo. `swapping a model is the costliest fix; fixing the harness is the cheapest.`
 - 🌀 **[claude-starter](https://github.com/Bojun-Vvibe/claude-starter)** — Beautiful TUI for Claude Code sessions. Local-first, AI-native dev workflow.
 - ⌨️ **[codex-starter](https://github.com/Bojun-Vvibe/codex-starter)** — Terminal homepage for Codex sessions.
 - 🌃 **[opencode-starter](https://github.com/Bojun-Vvibe/opencode-starter)** — Tokyo-Night TUI for browsing & resuming OpenCode sessions, with live search.
@@ -33,9 +53,10 @@ Small products, strong taste, zero upsell. Built with SwiftUI.
 - 🧹 **[Purger](https://github.com/Bojun-Vvibe/Purger)** — macOS disk cleanup. Small, transparent, zero upsell.
 - 📋 **[PasteFlow](https://github.com/Bojun-Vvibe/PasteFlow)** — macOS clipboard manager. Fast iteration.
 
-## Writing
+## Writing & Speaking
 
-- 📜 **[on-ai-native-work.github.io](https://github.com/on-ai-native-work/on-ai-native-work.github.io)** — One HTML file, no build. → [aka.ms/on-ai-native-work](https://aka.ms/on-ai-native-work)
+- 📜 **[On AI Native Work](https://aka.ms/on-ai-native-work)** — One HTML file, no build. Rethinking work principles for the AI Native era.
+- 🎙️ **[Offbeat Life](https://www.ximalaya.com/album/85667561)** — My podcast on Ximalaya. Play with life off the beaten track.
 
 ---
 
@@ -66,7 +87,8 @@ Six reflexes from [On AI Native Work](https://aka.ms/on-ai-native-work):
 
 ## Connect
 
-- 🌐 [booojchai.github.io](https://booojchai.github.io/)
+- 🌐 **[bojunchai.me](https://bojunchai.me)** — portfolio, experience, talks & publications
+- 💼 [LinkedIn](https://www.linkedin.com/in/bojun-chai-8b787b375/)
+- 🎙️ [Offbeat Life on Ximalaya](https://www.ximalaya.com/album/85667561)
 - 📜 [aka.ms/on-ai-native-work](https://aka.ms/on-ai-native-work)
-- 💼 Microsoft, Suzhou
-
+- 📍 Microsoft, Suzhou
