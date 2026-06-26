@@ -24,7 +24,7 @@ Senior Software Engineer & AI Native practitioner at Microsoft. I connect mobile
 The cockpit, the bridge, and the scaffolding around an agent — so the next session starts faster than the last one ended.
 
 - 🏗️ **[harness-kit](https://github.com/Bojun-Vvibe/harness-kit)** — Stack-agnostic scaffolding for AI-coding-agent harnesses. One `harness init` drops a complete 5-subsystem harness (instructions, state, feedback, observability, governance) into any repo. `swapping a model is the costliest fix; fixing the harness is the cheapest.`
-- 🗺️ **[agent-harness-atlas](https://github.com/Bojun-Vvibe/agent-harness)** — Source-level harness-capability review of 8 mainstream AI coding agents across 6 dimensions. Weekly, grounded, bilingual. `read the harness, not the hype.` → [agent-harness-atlas.github.io](https://agent-harness-atlas.github.io)
+- 🗺️ **[agent-harness-atlas](https://github.com/agent-harness-atlas/agent-harness-atlas.github.io)** — Source-level harness-capability review of 8 mainstream AI coding agents across 6 dimensions. Weekly, grounded, bilingual. `read the harness, not the hype.` → [agent-harness-atlas.github.io](https://agent-harness-atlas.github.io)
 - 🌀 **[claude-starter](https://github.com/Bojun-Vvibe/claude-starter)** — Beautiful TUI for Claude Code sessions. Local-first, AI-native dev workflow.
 - ⌨️ **[codex-starter](https://github.com/Bojun-Vvibe/codex-starter)** — Terminal homepage for Codex sessions.
 - 🌃 **[opencode-starter](https://github.com/Bojun-Vvibe/opencode-starter)** — Tokyo-Night TUI for browsing & resuming OpenCode sessions, with live search.
