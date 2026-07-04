@@ -60,6 +60,7 @@ Six reflexes from [On AI Native Work](https://aka.ms/on-ai-native-work):
 
 ## Contributed to
 
+- **[nexu-io/open-design](https://github.com/nexu-io/open-design)** ⭐ 74.7k
 - **[composer/composer](https://github.com/composer/composer)** ⭐ 29.4k
 - **[nim-lang/Nim](https://github.com/nim-lang/Nim)** ⭐ 18.0k
 - **[aio-libs/aiohttp](https://github.com/aio-libs/aiohttp)** ⭐ 16.4k
